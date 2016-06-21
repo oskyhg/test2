@@ -2,8 +2,8 @@ test
 test2
 test3
 11111
-<<<<<<< HEAD
+
 master update  test.txt
-=======
+
 chong tu test
->>>>>>> dev
+123
